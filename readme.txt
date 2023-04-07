@@ -7,8 +7,6 @@ For this post, I personally tested EVERY search operator I could find.
 
 Here is a complete list of all working, non-working, and “hit and miss” Google advanced search operators as of 2018.
 
-
-
 “search term”
 Force an exact-match search. Use this to refine results for ambiguous searches, or to exclude synonyms when searching for single words.
 
