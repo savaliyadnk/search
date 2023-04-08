@@ -1,0 +1,48 @@
+
+1. embedded open projects https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/18841631/Embedded+SW+Support
+2. best linux utilities https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/2282979331/PetaLinux+Package+Groups+-+2022.2+Release
+
+# linux driver
+https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/18841873/Linux+Drivers
+CAN Driver can4linux
+DRM KMS Driver
+Emaclite Driver
+GPIO Driver
+I2C Aardvark
+I2C Driver
+PCIe Root Port Driver
+SDIO WiFi Driver
+SPI Driver
+SystemACE Driver
+TFT Driver
+USB Gadget Driver
+USB Device Driver
+User Mode Pseudo Driver
+V4L2 Pipeline Driver
+V4L2 Color Filter Array Driver
+V4L2 Chroma Resampler Driver
+V4L2 Remapper Driver
+V4L2 RGB to YUV Converter Driver
+V4L2 Scaler Driver
+V4L2 Switch Driver
+V4L2 TPG Driver
+Zynq PL330 DMA Driver
+SERDES
+ZynqMP firmware driver
+
+# u-boot driver
+https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/18841895/U-boot+Drivers
+I2C - i2c driver
+SD Controller - mmc driver
+GEM - ethernet driver
+AXI Ethernet - Ethernet driver for 1G/10G/25G
+MRMAC - Multirate MAC 10G/25G
+AXI UART - AXI UART driver
+QSPI - quad spi driver
+OSPI - octal spi driver
+USB - usb driver
+NAND - nand driver
+GPIO - gpio driver
+Serial - UART driver
+Watchdog - watchdog driver
+
