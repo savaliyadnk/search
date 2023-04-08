@@ -1,11 +1,6 @@
 
 1. Image Processing https://www.youtube.com/watch?v=OXY9ldQQ96s&list=PLwfQdLTaM8lkM0FNuiSu7aWxW88VKjTY6
 
-
-
-
-
-
 # ComputerScience 
 https://www.youtube.com/@ComputerScienceLessons
 1. Computer Hardware and Architecture https://www.youtube.com/watch?v=_I8CLQazom0&list=PLTd6ceoshprfg23JMtwGysCm4tlc0I1ou
